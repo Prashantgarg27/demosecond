@@ -12,3 +12,8 @@ p{
     /* text-align: center; */
     text-transform: uppercase;
 }
+img{
+    width:200px;
+    height:200px;
+    align-items: center;
+}
